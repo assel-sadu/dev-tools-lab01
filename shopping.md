@@ -4,3 +4,7 @@ My shopping list
 ## Drinks
 
 - water
+
+- Potatoes
+- Tomatoes
+- Carrots
