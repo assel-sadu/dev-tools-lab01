@@ -3,7 +3,7 @@ My shopping list
 
 ## Drinks
 
-- sparkling mineral water
+- water (coconut, sparkling)
 
 - Potatoes
 - Tomatoes
