@@ -3,7 +3,7 @@ My shopping list
 
 ## Drinks
 
-- water
+- coconut water
 
 - Potatoes
 - Tomatoes
